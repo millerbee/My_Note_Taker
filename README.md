@@ -3,7 +3,7 @@
 
   ![badge](https://img.shields.io/badge/author-millerbee-blue)
   ![badge](https://img.shields.io/badge/-node%20js-orange)
- 
+ (A Big Thanks to tutor Austin Sanchez on this routing homework!)
   
 ## Description
   This project allows a user to create, save and delete notes.
@@ -43,4 +43,4 @@ console testing and postman
  <li><a href="https://github.com/millerbee/" target="_blank">GitHub</a></li>
 <br>
 
-A Big Thanks to tutor Austin Sanchez!
+
