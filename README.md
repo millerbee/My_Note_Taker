@@ -3,7 +3,7 @@
 
   ![badge](https://img.shields.io/badge/author-millerbee-blue)
   ![badge](https://img.shields.io/badge/-node%20js-orange)
-  ![badge](https://img.shields.io/badge/-Inquirer-green)
+ 
   
 ## Description
   This project allows a user to create, save and delete notes.
