@@ -30,7 +30,7 @@ you can visit https://fierce-coast-18964.herokuapp.com/  to interact with the ap
 MIT
 
 ## Contributing
-various web tutorials including this site: https://www.makeschool.com/academy/track/standalone/rotten-potatoes---movie-reviews-with-express-js/creating-a-review and a book project called confetti cuisine.
+
 
 ## Tests
 console testing and postman
@@ -43,3 +43,4 @@ console testing and postman
  <li><a href="https://github.com/millerbee/" target="_blank">GitHub</a></li>
 <br>
 
+A Big Thanks to tutor Austin Sanchez!
