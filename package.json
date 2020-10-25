@@ -1,0 +1,24 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "Note Taker",
+  "main": "main.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node server.js"
+  },
+  "author": "Brenda Miller",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millerbee/My_Note_Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/millerbee/My_Note_Taker/issues"
+  },
+  "homepage": "https://github.com/millerbee/My_Note_Taker#readme"
+}
+
